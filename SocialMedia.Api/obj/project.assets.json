@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SocialMedia.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SocialMedia.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SocialMedia.Core.dll": {}
+        }
+      },
+      "SocialMedia.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "SocialMedia.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SocialMedia.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SocialMedia.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SocialMedia.Core/1.0.0": {
+      "type": "project",
+      "path": "../SocialMedia.Core/SocialMedia.Core.csproj",
+      "msbuildProject": "../SocialMedia.Core/SocialMedia.Core.csproj"
+    },
+    "SocialMedia.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../SocialMedia.Infrastructure/SocialMedia.Infrastructure.csproj",
+      "msbuildProject": "../SocialMedia.Infrastructure/SocialMedia.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "SocialMedia.Core >= 1.0.0",
+      "SocialMedia.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\josep\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj",
+      "projectName": "SocialMedia.Api",
+      "projectPath": "D:\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj",
+      "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
+      "outputPath": "D:\\SocialMediaRestFulAPI\\SocialMedia.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+              "projectPath": "D:\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj"
+            },
+            "D:\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
+              "projectPath": "D:\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
