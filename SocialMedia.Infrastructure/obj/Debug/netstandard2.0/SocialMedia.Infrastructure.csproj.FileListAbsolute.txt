@@ -1,0 +1,12 @@
+D:\SocialMediaRestFulAPI\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Infrastructure.deps.json
+D:\SocialMediaRestFulAPI\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Infrastructure.dll
+D:\SocialMediaRestFulAPI\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Infrastructure.pdb
+D:\SocialMediaRestFulAPI\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Core.dll
+D:\SocialMediaRestFulAPI\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Core.pdb
+D:\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csprojAssemblyReference.cache
+D:\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+D:\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.AssemblyInfo.cs
+D:\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
+D:\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CopyComplete
+D:\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.dll
+D:\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.pdb
