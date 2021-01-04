@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "nBlAf9F9SL66k6KxEyE8qAtCFuHv6qVR6irHdVvRljFSOF0BPhUPMQjJzIGdjDEhl6nVeTK3HT8xDFtq8ijWbA==",
+  "dgSpecHash": "FPg9zDeyBJ2s8p5dFSjVnXVDdJAcRk6bPjmNcbDcx0OS6Kb+2+sWtm3JcO8Dvtki3dfDOwJtOBCq2rEPfrxG8g==",
   "success": true,
   "projectFilePath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jmedingr\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.4\\microsoft.aspnetcore.jsonpatch.3.1.4.nupkg.sha512",
+    "C:\\Users\\jmedingr\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.4\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.4.nupkg.sha512",
     "C:\\Users\\jmedingr\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\jmedingr\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\jmedingr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -29,6 +31,8 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\jmedingr\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\jmedingr\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

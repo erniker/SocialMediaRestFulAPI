@@ -31,6 +31,11 @@ namespace SocialMedia.Api
         {
             services.AddControllers();
 
+            // Configure NewtonsoftJson to avoid circular references
+            services.AddControllers().AddNewtonsoftJson(options => {
+                options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
+            });
+
             // Read Connection String
             services.AddDbContext<SocialMediaContext>(options => options.UseSqlServer(Configuration.GetConnectionString("SocialMedia")));
             // Resolve dependences

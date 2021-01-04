@@ -191,3 +191,4 @@ C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.UnitTests\o
 C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.UnitTests\obj\Debug\netcoreapp3.1\SocialMedia.UnitTests.dll
 C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.UnitTests\obj\Debug\netcoreapp3.1\SocialMedia.UnitTests.pdb
 C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.UnitTests\obj\Debug\netcoreapp3.1\SocialMedia.UnitTests.genruntimeconfig.cache
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.UnitTests\obj\Debug\netcoreapp3.1\SocialMedia.UnitTests.csprojAssemblyReference.cache

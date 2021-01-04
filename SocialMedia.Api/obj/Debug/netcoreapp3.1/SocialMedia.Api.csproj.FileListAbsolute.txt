@@ -114,3 +114,7 @@ C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\obj\Deb
 C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.dll
 C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.pdb
 C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.genruntimeconfig.cache
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
