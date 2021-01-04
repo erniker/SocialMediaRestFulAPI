@@ -1,3 +1,4 @@
+using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -30,6 +31,10 @@ namespace SocialMedia.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+
+            // Configure Automapper
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
             // Configure NewtonsoftJson to avoid circular references
             services.AddControllers().AddNewtonsoftJson(options => {
