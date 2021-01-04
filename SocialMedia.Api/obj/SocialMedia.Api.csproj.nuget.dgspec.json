@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj": {}
+    "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj": {}
   },
   "projects": {
-    "D:\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj": {
+    "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj",
+        "projectUniqueName": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj",
         "projectName": "SocialMedia.Api",
-        "projectPath": "D:\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj",
-        "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "D:\\SocialMediaRestFulAPI\\SocialMedia.Api\\obj\\",
+        "projectPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj",
+        "packagesPath": "C:\\Users\\jmedingr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmedingr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,17 +25,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ees-everis-repsol.pkgs.visualstudio.com/_packaging/Waylet/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/waylet/Waylet/_packaging/monees_feed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/waylet/_packaging/waylet/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-                "projectPath": "D:\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj"
               },
-              "D:\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
-                "projectPath": "D:\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj"
+              "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj"
               }
             }
           }
@@ -79,20 +82,20 @@
         }
       }
     },
-    "D:\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+    "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "projectUniqueName": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj",
         "projectName": "SocialMedia.Core",
-        "projectPath": "D:\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj",
-        "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "D:\\SocialMediaRestFulAPI\\SocialMedia.Core\\obj\\",
+        "projectPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "packagesPath": "C:\\Users\\jmedingr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmedingr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -100,7 +103,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ees-everis-repsol.pkgs.visualstudio.com/_packaging/Waylet/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/waylet/Waylet/_packaging/monees_feed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/waylet/_packaging/waylet/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
@@ -139,20 +145,20 @@
         }
       }
     },
-    "D:\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
+    "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
         "projectName": "SocialMedia.Infrastructure",
-        "projectPath": "D:\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "D:\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\jmedingr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmedingr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,14 +166,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ees-everis-repsol.pkgs.visualstudio.com/_packaging/Waylet/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/waylet/Waylet/_packaging/monees_feed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/waylet/_packaging/waylet/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-                "projectPath": "D:\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj"
               }
             }
           }

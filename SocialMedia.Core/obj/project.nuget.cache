@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Dutt7nE9do4qNuQIigkySPqHzr9kNJE5LlOjvhREFJtmhlSmRrmpidwUdO6cwB6Hm2r/IdpAeZQ2/cqaAqpuUw==",
+  "dgSpecHash": "GvYkK/TtlkNNvmN186vfc9nm/aCtA0MElcJd7SNNIdVsOdUisLTN3AxL+FZVl7QO44lz/NLAmkVKAExTc/TGvQ==",
   "success": true,
-  "projectFilePath": "D:\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj",
+  "projectFilePath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\jmedingr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jmedingr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

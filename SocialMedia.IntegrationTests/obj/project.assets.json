@@ -5555,23 +5555,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\josep\\.nuget\\packages\\": {},
+    "C:\\Users\\jmedingr\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SocialMediaRestFulAPI\\SocialMedia.IntegrationTests\\SocialMedia.IntegrationTests.csproj",
+      "projectUniqueName": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.IntegrationTests\\SocialMedia.IntegrationTests.csproj",
       "projectName": "SocialMedia.IntegrationTests",
-      "projectPath": "D:\\SocialMediaRestFulAPI\\SocialMedia.IntegrationTests\\SocialMedia.IntegrationTests.csproj",
-      "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-      "outputPath": "D:\\SocialMediaRestFulAPI\\SocialMedia.IntegrationTests\\obj\\",
+      "projectPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.IntegrationTests\\SocialMedia.IntegrationTests.csproj",
+      "packagesPath": "C:\\Users\\jmedingr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jmedingr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5579,7 +5579,10 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://ees-everis-repsol.pkgs.visualstudio.com/_packaging/Waylet/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/waylet/Waylet/_packaging/monees_feed/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/waylet/_packaging/waylet/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {

@@ -6,3 +6,12 @@ D:\SocialMediaRestFulAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.C
 D:\SocialMediaRestFulAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csproj.CoreCompileInputs.cache
 D:\SocialMediaRestFulAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.dll
 D:\SocialMediaRestFulAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.pdb
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.deps.json
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.dll
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.pdb
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfoInputs.cache
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfo.cs
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csproj.CoreCompileInputs.cache
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.dll
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.pdb
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csprojAssemblyReference.cache
