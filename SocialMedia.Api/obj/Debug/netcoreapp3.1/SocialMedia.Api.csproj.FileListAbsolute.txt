@@ -120,3 +120,9 @@ C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\bin\Deb
 C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
