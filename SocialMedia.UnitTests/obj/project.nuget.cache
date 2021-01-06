@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oVI7USgcaTK+7XOM9pBEI/vJ21nAflCc7CqxBrXtQhi8YH4KdxXQmDHUsizdJuSRGwfdAH+wN21QIKmpJgv36Q==",
+  "dgSpecHash": "fftMdfKKCZOe8hBWaS1Zk6n03D6Vy8g4ZW6qc/lOTGcW1B0fm0kxY3zrN3QtoorvNOgF+CU5QEAxAfa172boag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jmedingr\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\jmedingr\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

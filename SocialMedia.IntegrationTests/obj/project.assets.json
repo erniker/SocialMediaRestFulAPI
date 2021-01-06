@@ -5561,11 +5561,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.IntegrationTests\\SocialMedia.IntegrationTests.csproj",
+      "projectUniqueName": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.IntegrationTests\\SocialMedia.IntegrationTests.csproj",
       "projectName": "SocialMedia.IntegrationTests",
-      "projectPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.IntegrationTests\\SocialMedia.IntegrationTests.csproj",
+      "projectPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.IntegrationTests\\SocialMedia.IntegrationTests.csproj",
       "packagesPath": "C:\\Users\\jmedingr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.IntegrationTests\\obj\\",
+      "outputPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

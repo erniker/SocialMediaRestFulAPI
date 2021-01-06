@@ -8828,11 +8828,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
       "projectName": "SocialMedia.Infrastructure",
-      "projectPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\jmedingr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8855,8 +8855,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-              "projectPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj"
+            "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+              "projectPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj"
             }
           }
         }

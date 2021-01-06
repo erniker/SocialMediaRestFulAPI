@@ -6351,11 +6351,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj",
+      "projectUniqueName": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj",
       "projectName": "SocialMedia.Api",
-      "projectPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj",
+      "projectPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj",
       "packagesPath": "C:\\Users\\jmedingr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Api\\obj\\",
+      "outputPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6378,11 +6378,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-              "projectPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj"
+            "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+              "projectPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj"
             },
-            "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj"
+            "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj"
             }
           }
         }

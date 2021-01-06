@@ -22,3 +22,15 @@ C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Infrastruct
 C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CopyComplete
 C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.dll
 C:\Users\jmedingr\Desktop\ejemplos\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.pdb
+C:\Users\jmedingr\Desktop\.Net\SocialMediaRestFulAPI\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Infrastructure.deps.json
+C:\Users\jmedingr\Desktop\.Net\SocialMediaRestFulAPI\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Infrastructure.dll
+C:\Users\jmedingr\Desktop\.Net\SocialMediaRestFulAPI\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Infrastructure.pdb
+C:\Users\jmedingr\Desktop\.Net\SocialMediaRestFulAPI\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Core.dll
+C:\Users\jmedingr\Desktop\.Net\SocialMediaRestFulAPI\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Core.pdb
+C:\Users\jmedingr\Desktop\.Net\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csprojAssemblyReference.cache
+C:\Users\jmedingr\Desktop\.Net\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jmedingr\Desktop\.Net\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.AssemblyInfo.cs
+C:\Users\jmedingr\Desktop\.Net\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jmedingr\Desktop\.Net\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CopyComplete
+C:\Users\jmedingr\Desktop\.Net\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.dll
+C:\Users\jmedingr\Desktop\.Net\SocialMediaRestFulAPI\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.pdb

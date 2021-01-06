@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj": {}
+    "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj": {
+    "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
         "projectName": "SocialMedia.UnitTests",
-        "projectPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
+        "projectPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.UnitTests\\SocialMedia.UnitTests.csproj",
         "packagesPath": "C:\\Users\\jmedingr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cqFqe7CPP2iwlfoKJdrLOQtYKBhb7Ng1wNzs1rQI9lw0i1EUMsxHw1vZLkGN/ANZ49an72LRX2bPGXpUmAnFrA==",
+  "dgSpecHash": "34nHH5NusP+R18J8brZZM25YJ+QBlZiwazZowqaOlyo1HYbjkKM1nEhYH/cEak9MUxrdgueMb1b8DvFDedzMOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jmedingr\\Desktop\\ejemplos\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jmedingr\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\jmedingr\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
