@@ -47,10 +47,11 @@ namespace SocialMedia.Api
             // Read Connection String
             services.AddDbContext<SocialMediaContext>(options => options.UseSqlServer(Configuration.GetConnectionString("SocialMedia")));
             
-            // Resolve dependences (interfaces)
+            // Resolve dependencies
             services.AddTransient<IPostService, PostService>();
-            services.AddTransient<IPostRepository, PostRepository>();
-            services.AddTransient<IUserRepository, UserRepository>();
+            services.AddTransient<IUnitOfWork, UnitOfWork>();
+            // For Generic Repository (interface)
+            services.AddScoped(typeof(IRepository<>), typeof(BaseRepository<>));
 
             // Add Validation filter globally and DTO's validations 
             services.AddMvc(options =>
