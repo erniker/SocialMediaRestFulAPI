@@ -37,10 +37,11 @@ namespace SocialMedia.Api
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
             // Configure NewtonsoftJson to avoid circular references
-            services.AddControllers()
-                .AddNewtonsoftJson(options => {options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;})
-                .ConfigureApiBehaviorOptions(options => 
-                {
+            services.AddControllers(options => {
+                options.Filters.Add<GlobalExceptionFilter>();
+            }).AddNewtonsoftJson(options => {
+                options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
+            }).ConfigureApiBehaviorOptions(options => {
                     //options.SuppressModelStateInvalidFilter = true; 
                 });
 
