@@ -1,4 +1,5 @@
-﻿using SocialMedia.Core.Entities;
+﻿using SocialMedia.Core.CustomEntities;
+using SocialMedia.Core.Entities;
 using SocialMedia.Core.Enumerations;
 using SocialMedia.Core.Interfaces;
 using SocialMedia.Core.QueryFilters;
@@ -19,7 +20,7 @@ namespace SocialMedia.Core.Services
         }
 
 
-        public IEnumerable<Post> GetPosts(PostQueryFilter filters)
+        public PagedList<Post> GetPosts(PostQueryFilter filters)
         {
 
             var post = _unitOfWork.PostRepository.GetAll();
@@ -35,7 +36,10 @@ namespace SocialMedia.Core.Services
             {
                 post = post.Where(x => x.Description.ToLower().Contains(filters.Description.ToLower()));
             }
-            return post;
+
+            var pagedPosts = PagedList<Post>.Create(post, filters.PageNumber, filters.PageSize);
+
+            return pagedPosts;
         }
 
         public async Task<Post> GetPost(int id)
