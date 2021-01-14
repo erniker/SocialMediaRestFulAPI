@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj",
         "projectName": "SocialMedia.Api",
         "projectPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Api\\SocialMedia.Api.csproj",
-        "packagesPath": "C:\\Users\\jmedingr\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Localuser\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jmedingr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Localuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,10 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://ees-everis-repsol.pkgs.visualstudio.com/_packaging/Waylet/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/waylet/Waylet/_packaging/monees_feed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/waylet/_packaging/waylet/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -104,14 +101,14 @@
         "projectUniqueName": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj",
         "projectName": "SocialMedia.Core",
         "projectPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Core\\SocialMedia.Core.csproj",
-        "packagesPath": "C:\\Users\\jmedingr\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Localuser\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jmedingr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Localuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -119,10 +116,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://ees-everis-repsol.pkgs.visualstudio.com/_packaging/Waylet/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/waylet/Waylet/_packaging/monees_feed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/waylet/_packaging/waylet/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
@@ -171,14 +165,14 @@
         "projectUniqueName": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
         "projectName": "SocialMedia.Infrastructure",
         "projectPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\jmedingr\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Localuser\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jmedingr\\Desktop\\.Net\\SocialMediaRestFulAPI\\SocialMedia.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jmedingr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Localuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -186,10 +180,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://ees-everis-repsol.pkgs.visualstudio.com/_packaging/Waylet/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/waylet/Waylet/_packaging/monees_feed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/waylet/_packaging/waylet/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
