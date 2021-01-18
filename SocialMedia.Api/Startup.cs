@@ -59,6 +59,7 @@ namespace SocialMedia.Api
             
             // Resolve dependencies
             services.AddTransient<IPostService, PostService>();
+            services.AddTransient<ISecurityService, SecurityService>();
             services.AddTransient<IUnitOfWork, UnitOfWork>();
             // For Generic Repository (interface)
             services.AddScoped(typeof(IRepository<>), typeof(BaseRepository<>));
